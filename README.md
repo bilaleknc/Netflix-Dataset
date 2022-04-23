@@ -13,7 +13,7 @@ You’ll also gain experience in an essential data science skill — exploratory
 
 Dig into a real-world Netflix movie dataset using everything from lists and loops to pandas and matplotlib.
 
-Project tasks
+* Project tasks
 1. Loading a friend's data into a dictionary
 2. Creating a DataFrame from a dictionary
 3. A visual inspection of our data
