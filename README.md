@@ -9,7 +9,7 @@
 
 In this project, you’ll apply the skills you learned in Introduction to Python and Intermediate Python to solve a real-world data science problem.
 
-You’ll also gain experience in an essential data science skill — exploratory data analysis. This will allow you to perform critical tasks such as manipulating raw data and drawing conclusions from plots you create of the data. Press play to begin!
+You’ll also gain experience in an essential data science skill — exploratory data analysis. This will allow you to perform critical tasks such as manipulating raw data and drawing conclusions from plots you create of the data.
 
 Dig into a real-world Netflix movie dataset using everything from lists and loops to pandas and matplotlib.
 
